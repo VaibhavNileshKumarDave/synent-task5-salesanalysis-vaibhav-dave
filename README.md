@@ -101,7 +101,7 @@ Central region significantly underperforms, especially in Furniture (net loss of
 ## Repository Structure
 
 ```
-synent-task5-salesanalysis-vibhu/
+synent-task5-salesanalysis-vaibhav-dave/
 │
 ├── data/
 │   ├── train.csv
@@ -146,6 +146,6 @@ jupyter notebook notebooks/superstore_sales_analysis.ipynb
 
 ## Author
 
-**Vibhu** — Data Analyst Intern, Synent Technologies  
+**Vaibhav** — Data Analyst Intern, Synent Technologies  
 B.Tech Computer Engineering, LDRP-ITR, Gandhinagar (2027)  
 Internship Submission — June 2026
