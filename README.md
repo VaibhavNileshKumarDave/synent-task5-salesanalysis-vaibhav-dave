@@ -20,7 +20,7 @@ Two datasets were used and merged for this analysis:
 
 **Why two datasets?** `train.csv` contains time and product columns needed for trend analysis, while `SampleSuperstore.csv` contains Profit and Discount columns needed for profitability analysis. Neither dataset alone was sufficient, so both were merged on 10 common columns (`Ship Mode`, `Segment`, `Country`, `City`, `State`, `Postal Code`, `Region`, `Category`, `Sub-Category`, `Sales`).
 
-**Final merged dataset:** 9846 rows x 21 columns, covering orders from **January 2015 to December 2018** across **48 US states**, **4 regions**, **3 categories**, and **1,848 unique products**.
+**Final merged dataset:** 9801 rows x 24 columns, covering orders from **January 2015 to December 2018** across **48 US states**, **4 regions**, **3 categories**, and **1,848 unique products**.
 
 ---
 
